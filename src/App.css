@@ -1,0 +1,23 @@
+section.section {
+  width: 100vw;
+  height: 92vh;
+}
+nav.navbar {
+  padding: 12px;
+}
+/* DARK THEME */
+.subtitle.dark {
+  color: #fff;
+}
+.label.dark {
+  color: #fff;
+}
+section.section.dark {
+  background-color: #333;
+  color: #fff;
+}
+/* LIGHT THEME */
+section.section.light {
+  background-color: #fff;
+  color: #333;
+}
